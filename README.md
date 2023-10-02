@@ -4,7 +4,7 @@ Nama saya Zakaria Rafi
 - 📫 How to reach me: zakariarafifahmi@gmail.com
 - ⚡ Fun fact: Fun
 
-#Github Statistic  
+### Github Statistic  
 <p align="left">
 <a href="https://github.com/zakariarafi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

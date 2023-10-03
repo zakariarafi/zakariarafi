@@ -12,12 +12,6 @@ Nama saya Zakaria Rafi
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/zakaria-rafi/">LinkedIn</a>   
-- <a href="https://zakariarafi.me">zakariarafi.me</a>
-- zakariarafifahmi@gmail.com
-- <a href="https://medium.com/@zakariarafifahmi">Medium</a>
-
 <!--
 **zakariarafi/zakariarafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

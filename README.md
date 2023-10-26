@@ -1,28 +1,26 @@
-### Hi there 👋
-Nama saya Zakaria Rafi
+### Hello, I'm Zakaria Rafi 👋
 
-- 📫 How to reach me: zakariarafifahmi@gmail.com
-- ⚡ Fun fact: Fun
+I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a bit about me:
 
-### Github Statistic  
-<p align="left">
+- 📫 Reach me at: [zakariarafifahmi@gmail.com](mailto:zakariarafifahmi@gmail.com)
+- ⚡ Fun fact: I love computer science!
+
+### 🛠️ Technologies and Tools I use:
+
+- Code: `JavaScript`, `Python`, `Java`
+- Tools: `React`, `Node.js`, `Streamlit`
+- Database: `MongoDB`, `MySQL`, `PostgreSQL`
+
+### 📊 GitHub Stats:
+
+<p align="center">
 <a href="https://github.com/zakariarafi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakariarafi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakariarafi&layout=compact&theme=algolia"/>
 </a>
 </p>
 
-<!--
-**zakariarafi/zakariarafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📣 Let's connect!
+- LinkedIn: [Zakaria Rafi](https://www.linkedin.com/in/zakariarafi)
+- Twitter: [@zakariarafi](https://twitter.com/zakariarafi)
+- Personal Website: [zakariarafi.dev](https://zakariarafi.dev)

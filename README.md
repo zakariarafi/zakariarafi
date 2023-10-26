@@ -22,8 +22,8 @@ I am a passionate developer with a fervor for delving into new technologies and 
 
 ### 📣 Let's Network!
 - LinkedIn: [Zakaria Rafi](https://www.linkedin.com/in/zakariarafi)
-- Twitter: [@zakariarafi](https://twitter.com/zakariarafi)
-- Portfolio: [zakariarafi.dev](https://zakariarafi.dev)
+- Mediun: [@zakariarafi](https://medium.com/@zakariarafifahmi)
+- Portfolio: [zakariarafi](https://zakariarafi.me)
 
 ---
 

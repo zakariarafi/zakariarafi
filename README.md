@@ -1,17 +1,17 @@
 ### Hello, I'm Zakaria Rafi 👋
 
-I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a bit about me:
+I am a passionate developer with a fervor for delving into new technologies and lending my support to open-source initiatives. Here's a glimpse into who I am:
 
-- 📫 Reach me at: [zakariarafifahmi@gmail.com](mailto:zakariarafifahmi@gmail.com)
-- ⚡ Fun fact: I love computer science!
+- 📫 Get in touch: [zakariarafifahmi@gmail.com](mailto:zakariarafifahmi@gmail.com)
+- ⚡ A bit of trivia: I can decode a paper!
 
-### 🛠️ Technologies and Tools I use:
+### 🛠️ Technologies & Instruments I Work With:
 
-- Code: `JavaScript`, `Python`, `Java`
-- Tools: `React`, `Node.js`, `Streamlit`
-- Database: `MongoDB`, `MySQL`, `PostgreSQL`
+- Programming Languages: `JavaScript`, `Python`, `Java`
+- Tools & Frameworks: `React`, `Node.js`, `Streamlit`
+- Databases: `MongoDB`, `MySQL`, `PostgreSQL`
 
-### 📊 GitHub Stats:
+### 📊 My GitHub Performance:
 
 <p align="center">
 <a href="https://github.com/zakariarafi">
@@ -20,7 +20,11 @@ I'm a passionate developer who loves to explore new technologies and contribute 
 </a>
 </p>
 
-### 📣 Let's connect!
+### 📣 Let's Network!
 - LinkedIn: [Zakaria Rafi](https://www.linkedin.com/in/zakariarafi)
 - Twitter: [@zakariarafi](https://twitter.com/zakariarafi)
-- Personal Website: [zakariarafi.dev](https://zakariarafi.dev)
+- Portfolio: [zakariarafi.dev](https://zakariarafi.dev)
+
+---
+
+I hope this rephrased content suits your needs!

@@ -1,13 +1,13 @@
 ### Hello, I'm Zakaria Rafi 👋
 
-I am a passionate developer with a fervor for delving into new technologies and lending my support to open-source initiatives. Here's a glimpse into who I am:
+I am a passionate researcher with a fervor for delving into new technologies and lending my support to open-source initiatives. Here's a glimpse into who I am:
 
 - 📫 Get in touch: [zakariarafifahmi@gmail.com](mailto:zakariarafifahmi@gmail.com)
 - ⚡ A bit of trivia: I can decode a paper!
 
 ### 🛠️ Technologies & Instruments I Work With:
 
-- Programming Languages: `JavaScript`, `Python`, `Java`
+- Programming Languages: `JavaScript`, `Python`, `Java`, 'R'
 - Tools & Frameworks: `React`, `Node.js`, `Streamlit`
 - Databases: `MongoDB`, `MySQL`, `PostgreSQL`
 

@@ -3,7 +3,7 @@
 I am a passionate researcher with a fervor for delving into new technologies and lending my support to open-source initiatives. Here's a glimpse into who I am:
 
 - 📫 Get in touch: [zakariarafifahmi@gmail.com](mailto:zakariarafifahmi@gmail.com)
-- ⚡ A bit of trivia: I can decode a paper!
+- ⚡ A bit of trivia: I Love Reading, Researching and Running!
 
 ### 🛠️ Technologies & Instruments I Work With:
 
